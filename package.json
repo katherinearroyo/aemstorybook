@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "storybook-addon-aem": "^0.0.7"
+  }
+}
